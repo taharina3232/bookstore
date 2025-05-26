@@ -18,7 +18,6 @@
   <img src=![WhatsApp Image 2025-05-25 at 10 29 53_e98f7958](https://github.com/user-attachments/assets/bf37f2c5-472d-4861-a986-cccb72ea363d)
 
 </p>
-github.com
 
 
 Bookstore Management System
@@ -34,7 +33,7 @@ Laravel is a powerful and elegant PHP framework designed for web application dev
 
 
 
-Features
+Features:
 
 User authentication and authorization
 
@@ -51,7 +50,7 @@ RESTful APIs for integration and automation
 
 
 
-Technology Stack
+## 🛠️ Technologies Used
 
 Backend: Laravel (PHP)
 
